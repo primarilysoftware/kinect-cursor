@@ -1,0 +1,13 @@
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\KinectCursor.dll
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\KinectCursor.pdb
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\obj\Debug\KinectCursor.dll
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\obj\Debug\KinectCursor.pdb
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\MathNet.Numerics.dll
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\MathNet.Spatial.dll
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\MathNet.Numerics.xml
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\MathNet.Spatial.xml
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\WindowsInput.dll
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\bin\Debug\WindowsInput.xml
+C:\Users\Jon\Home\Repos\PrimarilySoftware.Blog\KinectCursor\KinectCursor\obj\Debug\KinectCursor.csprojResolveAssemblyReference.cache
